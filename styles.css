@@ -1,0 +1,11 @@
+
+img {
+    width: 100px; 
+}
+
+li {
+    list-style: none; 
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+}
